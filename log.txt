@@ -1,0 +1,17 @@
+commit 8e7ca1dd7b0d3b3e4e1e35d21773984d9eb8a2d3
+Author: VarunsaiKodumuri <varunsai.kodumuri@gmail.com>
+Date:   Mon Oct 29 22:38:14 2018 +0530
+
+    added gitignore
+
+commit ecf0b4fd48a54e0c7c83b9cc26d0cbee2179126f
+Author: VarunsaiKodumuri <varunsai.kodumuri@gmail.com>
+Date:   Sun Oct 14 14:13:08 2018 +0530
+
+    added new files
+
+commit 3c8e4d115261338b0adcb787597d61de5e3df7df
+Author: VarunsaiKodumuri <varunsai.kodumuri@gmail.com>
+Date:   Sun Oct 14 14:01:46 2018 +0530
+
+    added readme.txt
