@@ -3,7 +3,7 @@
 
 I live in bangalore working as a full stack developer with an experience of 3+ years in different technologies.
 
-#Main Skills 
+## Main Skills 
 
 - Angular
 - Node.js 
